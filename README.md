@@ -6,7 +6,7 @@ Hey, I'm Freddy,
 I am a Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon](https://www.lewagon.com/data-science-course).
 <br />
 
-⚡ In September 2002 I graduated from Le Wagon's Data Science Bootcamp and I keep on learning new things every day since.<br />
+⚡ In September 2020 I graduated from Le Wagon's Data Science Bootcamp and I keep on learning new things every day since.<br />
 🌱 At the moment, I seek to dive deeper into Data Engineering and Dev Ops.<br />
 🔭 I am currently working on projects for my Data Engineering and Dev Ops portfolio.<br />
 📫 Feel free to reach out to me on [<img alt="LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/frederik-laubisch/)
