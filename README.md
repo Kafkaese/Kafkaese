@@ -44,7 +44,7 @@ I am Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon](h
 <h1> Stats </h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kafkaese&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kafkaese&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue-dark" />
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -52,7 +52,7 @@ I am Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon](h
 </a>
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafkaese&count_private=true&custom_title=Freddy%27s%20Most%20Used%20Languages&hide=ruby&hide_border=true&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafkaese&count_private=true&custom_title=Freddy%27s%20Most%20Used%20Languages&hide=ruby&hide_border=true&layout=compact&theme=vue-dark" />
 </a>
 
 <!--
