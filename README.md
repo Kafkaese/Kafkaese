@@ -39,7 +39,7 @@ I am Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon](h
 
 <!-- Dev Tools & other -->
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" alt="react" width="40" height="40"/> </a>
 </p>
 
 
