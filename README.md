@@ -34,6 +34,7 @@ I am Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon](h
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_logo.png" alt="apache airflow" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://neodoo.es/wp-content/uploads/2020/09/logo_terraform_2-480x480.png" alt="Hashicorp Terraform" width="40" height="40"/> </a>
 </p>
 <!-- Data Eng e.g dbt-->
 
