@@ -2,8 +2,9 @@
 Hey, I'm Freddy
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
+I am a Freelance Data Science Teacher and IT Professional.
 
-I am Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon](https://www.lewagon.com/data-science-course).
+I am former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon](https://www.lewagon.com/data-science-course).
 <br />
 
 ⚡ In September 2020 I graduated from Le Wagon's Data Science Bootcamp and I keep on learning new things every day since.<br />
