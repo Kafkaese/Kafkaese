@@ -2,12 +2,15 @@
 Hey, I'm Freddy
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-I am a Freelance Data Science Teacher and IT Professional.
 
-I am former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon](https://www.lewagon.com/data-science-course).
+I am a Freelance Data Science Teacher and IT Professional.
+<br />
+
+Former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon](https://www.lewagon.com/data-science-course).
 <br />
 
 ⚡ In September 2020 I graduated from Le Wagon's Data Science Bootcamp and I keep on learning new things every day since.<br />
+⚓ Until March 2023 I was Lead Teacher and Batch Manager at Le Wagon. <br />
 🌱 At the moment, I seek to dive deeper into Data Engineering and Dev Ops.<br />
 🔭 I am currently working on a React app with Data Enineering and DevOps elements for my portfolio. Stay tuned!<br />
 📫 Feel free to reach out to me on [<img alt="LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/frederik-laubisch/)
