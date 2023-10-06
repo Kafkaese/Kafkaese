@@ -19,8 +19,9 @@ Former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon]
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dotnet/docs/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/csharp.svg" alt="python" width="40" height="40"/> </a>
-<img src="https://p7.hiclipart.com/preview/793/545/309/javascript-portable-network-graphics-logo-clip-art-computer-icons-vue-js.jpg" alt="javascript"  width="40" height="40"/>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/130/641/png-clipart-javascript-node-js-computer-icons-logo-application-software-javascript-icon-text-logo.png" alt="javascript"  width="40" height="40"/></a>
 </p>
+
 <h4 align="left">Tools:</h3>
 <!-- General Tool (shell, git etc) -->
 <p align="left">
