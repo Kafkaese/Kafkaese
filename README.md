@@ -12,7 +12,7 @@ Former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon]
 ⚡ In September 2020 I graduated from Le Wagon's Data Science Bootcamp and I keep on learning new things every day since.<br />
 ⚓ Until March 2023 I was Lead Teacher and Batch Manager at Le Wagon. <br />
 🌱 At the moment, I seek to dive deeper into Data Engineering and Dev Ops.<br />
-🔭 I am currently working on a React app with Data Enineering and DevOps elements for my portfolio. Stay tuned!<br />
+🔭 I am currently working on a React app with Data Enineering and DevOps elements for my portfolio. You can check it out <a href=https://github.com/Kafkaese/taro>right here</a>. <br />
 📫 Feel free to reach out to me on [<img alt="LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/frederik-laubisch/)
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Languages:</h3>
