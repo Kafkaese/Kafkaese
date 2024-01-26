@@ -54,6 +54,20 @@ Former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon]
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" alt="react" width="45" height="40"/> </a>
 </p>
 
+<h1> Stats </h1>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kafkaese&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue-dark" />
+</a>
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kafkaese&count_private=true&custom_title=Freddy%27s%20Coding%20Time%20(Last%207%20Days)&show_icons=true&hide_border=true&layout=compact&theme=dracula" />
+</a>
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafkaese&count_private=true&custom_title=Freddy%27s%20Most%20Used%20Languages&hide=ruby&hide_border=true&layout=compact&theme=vue-dark" />
+</a>
 
 <!--
 <a href="URL" target="_blank" rel="noreferrer"> <img src="LOGO_URL" alt="scikit_learn" width="40" height="40"/> </a> 
