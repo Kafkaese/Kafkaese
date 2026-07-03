@@ -64,6 +64,7 @@ Former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon]
 </p>
 
 
+
 <!--
 <a href="URL" target="_blank" rel="noreferrer"> <img src="LOGO_URL" alt="scikit_learn" width="40" height="40"/> </a> 
 
