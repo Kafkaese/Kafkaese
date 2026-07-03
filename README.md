@@ -27,6 +27,8 @@ Former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon]
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank" rel="noreferrer"> <img src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow.png" alt="shell" width="40" height="40"/></a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+ <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
  </p>
 <!--ML Tools-->
 <p align="left">
@@ -37,6 +39,7 @@ Former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon]
 <p>
  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"  height="40"/></a>
  <a href="https://azure.microsoft.com/"><img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Google Cloud Platform" width="40" height="40"/></a>
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 </p>
 
 <!--DevOps & Tools-->
@@ -46,6 +49,12 @@ Former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon]
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgresql" width="40" height="40"/></a> 
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_logo.png" alt="apache airflow" width="40" height="40"/></a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Hashicorp Terraform" width="40" height="40"/></a>
+</p>
+<!--Monitoring & Observability-->
+<p align="left">
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a>
+<a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"> <img src="https://grafana.com/static/img/logos/logo-loki.svg" alt="loki" width="40" height="40"/></a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
 </p>
 <!-- Data Eng e.g dbt-->
 
