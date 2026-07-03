@@ -3,7 +3,7 @@ Hey, I'm Freddy
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-I am a Freelance Data Science Teacher and IT Professional.
+I am an IT Professional with expierience in Data Science, Data Engineering, Software Development and Cloud Engineering.
 <br />
 
 Former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon](https://www.lewagon.com/data-science-course).
