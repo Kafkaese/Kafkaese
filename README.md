@@ -45,13 +45,13 @@ Former Lead Teacher and Batch Manager at the [Data Science Bootcamp by Le Wagon]
 <a href="kubernetes.io" target="_blank" rel="nonreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1920px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/></a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgresql" width="40" height="40"/></a> 
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_logo.png" alt="apache airflow" width="40" height="40"/></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://neodoo.es/wp-content/uploads/2020/09/logo_terraform_2-480x480.png" alt="Hashicorp Terraform" width="40" height="40"/></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Hashicorp Terraform" width="40" height="40"/></a>
 </p>
 <!-- Data Eng e.g dbt-->
 
 <!-- Dev Tools & other -->
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" alt="react" width="45" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="40"/> </a>
 </p>
 
 
